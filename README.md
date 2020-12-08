@@ -9,17 +9,7 @@ What is an ORM?
 <img src="https://gblobscdn.gitbook.com/assets%2F-MNrO0PWI5eVuZV2v0d3%2F-MNrO5Gb0R_STPJqJkZL%2F-MNrStUhK7YPK2nwYkEZ%2FEntity-Framework-Architecture.png?alt=media&token=ab476d27-f58f-466f-be2e-45c3a2cae91c" title="ORM Picture Gitbook " width="300" height="300">
 
 
-What are some pros of using ORM?
-*You get to write in the language you are already using anyway.SQL is a powerful language,but most of developers don't write in it often.
-*It abstracts away the database system so that switching from MySQL to PosttgreSQL or whatever flavor you prefer
-*Depending on the ORM you get a lot of advanced features out of the box,such as support for transactions,connection pooling,seeds,streams and all sorts of other goodies.
-*Many of the queriest you write will perform better than if you wrote them yourself.</p>
-What are some cons of using ORM?
-<p>*If you are a master at SQL, you can probably get more performant queries by writing them yourself.
-*There is overhead involved in learning how to use any given ORM.
-*The initial configuration of an ORM can be a headache.
-*As a developer, it is important to understand what is happening under the hood. 
-Since ORMs can serve as a crutch to avoid understanding databases and SQL, it can make you a weaker developer in that portion of the stack.</p>
+
 <h2>Entity FrameWork<h2>
 <h3><p>Entity Framework is a tool for Object Relational Mapping.It is like a bridge between OOP and Relational Data Base.Entity Frame Work works as an assistans by getting data and bound your database object.Entity Framework works with Ado.Net.What is the Ado.Net? 
 It contains UnitOfWork design pattern and written by Microsoft.For instance, adding, updating,deleting like this process we should create sentences String type.On the other hand,UnitOfWork doesn't need seperate all String process properly.It can manage these processes just by one source and u don't need to definite more String type.
