@@ -2,6 +2,10 @@
 <h3>ORM(Object Relational Mapping)<h3>
 What is an ORM?
 <p>Object-relational-mapping is the idea of being able to write queries , as well as much more complicated ones, using the object-oriented paradigm of your preferred programming language.
+  
+  
+  
+  
 <img src="https://gblobscdn.gitbook.com/assets%2F-MNrO0PWI5eVuZV2v0d3%2F-MNrO5Gb0R_STPJqJkZL%2F-MNrStUhK7YPK2nwYkEZ%2FEntity-Framework-Architecture.png?alt=media&token=ab476d27-f58f-466f-be2e-45c3a2cae91c" title="ORM Picture Gitbook " width="300" height="300">
 
 
